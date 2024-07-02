@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhwan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC790\uB8CC\\\uBAA8\uBE14\\\uD504\uB85C\uC81D\uD2B8\\5. \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8_\uC774\uD658\uD76C\\mini_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAB602E-D989-4ECE-97CE-0F4AD6ED9B53}|mini_project.csproj|c:\\users\\bhwan\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC790\uB8CC\\\uBAA8\uBE14\\\uD504\uB85C\uC81D\uD2B8\\5. \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8_\uC774\uD658\uD76C\\mini_project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAB602E-D989-4ECE-97CE-0F4AD6ED9B53}|mini_project.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAB602E-D989-4ECE-97CE-0F4AD6ED9B53}|mini_project.csproj|C:\\Users\\bhwan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC790\uB8CC\\\uBAA8\uBE14\\\uD504\uB85C\uC81D\uD2B8\\5. \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8_\uC774\uD658\uD76C\\mini_project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AAB602E-D989-4ECE-97CE-0F4AD6ED9B53}|mini_project.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAB602E-D989-4ECE-97CE-0F4AD6ED9B53}|mini_project.csproj|C:\\Users\\bhwan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC790\uB8CC\\\uBAA8\uBE14\\\uD504\uB85C\uC81D\uD2B8\\5. \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8_\uC774\uD658\uD76C\\mini_project\\appendnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AAB602E-D989-4ECE-97CE-0F4AD6ED9B53}|mini_project.csproj|solutionrelative:appendnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAB602E-D989-4ECE-97CE-0F4AD6ED9B53}|mini_project.csproj|c:\\users\\bhwan\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC790\uB8CC\\\uBAA8\uBE14\\\uD504\uB85C\uC81D\uD2B8\\5. \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8_\uC774\uD658\uD76C\\mini_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAB602E-D989-4ECE-97CE-0F4AD6ED9B53}|mini_project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1440,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhwan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC790\uB8CC\\\uBAA8\uBE14\\\uD504\uB85C\uC81D\uD2B8\\5. \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8_\uC774\uD658\uD76C\\mini_project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bhwan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC790\uB8CC\\\uBAA8\uBE14\\\uD504\uB85C\uC81D\uD2B8\\5. \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8_\uC774\uD658\uD76C\\mini_project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:31:02.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppendNumber.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bhwan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC790\uB8CC\\\uBAA8\uBE14\\\uD504\uB85C\uC81D\uD2B8\\5. \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8_\uC774\uD658\uD76C\\mini_project\\AppendNumber.cs",
+              "RelativeDocumentMoniker": "AppendNumber.cs",
+              "ToolTip": "C:\\CodeWork\\C#\\mini_project\\AppendNumber.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\CodeWork\\C#\\mini_project\\AppendNumber.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T08:31:02.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\bhwan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC790\uB8CC\\\uBAA8\uBE14\\\uD504\uB85C\uC81D\uD2B8\\5. \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8_\uC774\uD658\uD76C\\mini_project\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\bhwan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC790\uB8CC\\\uBAA8\uBE14\\\uD504\uB85C\uC81D\uD2B8\\5. \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8_\uC774\uD658\uD76C\\mini_project\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:31:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bhwan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC790\uB8CC\\\uBAA8\uBE14\\\uD504\uB85C\uC81D\uD2B8\\5. \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8_\uC774\uD658\uD76C\\mini_project\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\CodeWork\\C#\\mini_project\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\CodeWork\\C#\\mini_project\\MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T08:31:03.374Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 48,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
